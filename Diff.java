@@ -1,3 +1,7 @@
-public class Diff{
-    
+public class Multiply{
+    public static void main(String[] args){
+        int a = 10;
+        int b = 20;
+        System.out.println("The product of two number is " + (a * b));
+    }
 }
